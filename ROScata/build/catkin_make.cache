@@ -1,0 +1,2 @@
+Sensor
+-DCATKIN_DEVEL_PREFIX=/home/dembele/Projet_indus/projet_catamaran/ROScata/devel -DCMAKE_INSTALL_PREFIX=/home/dembele/Projet_indus/projet_catamaran/ROScata/install -G Unix Makefiles

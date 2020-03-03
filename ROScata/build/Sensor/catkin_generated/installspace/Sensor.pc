@@ -1,0 +1,8 @@
+prefix=/home/dembele/Projet_indus/projet_catamaran/ROScata/install
+
+Name: Sensor
+Description: Description of Sensor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
