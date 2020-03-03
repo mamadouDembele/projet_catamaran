@@ -1,0 +1,8 @@
+
+#question
+bool enter
+---
+#reponse
+float64 x
+float64 y
+

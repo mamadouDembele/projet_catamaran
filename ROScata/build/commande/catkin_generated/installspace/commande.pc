@@ -1,0 +1,8 @@
+prefix=/home/dembele/Projet_indus/projet_catamaran/ROScata/install
+
+Name: commande
+Description: Description of commande
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -132,6 +132,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/dembele/Projet_indus/projet_catamaran/ROScata/build/gtest/cmake_install.cmake")
   include("/home/dembele/Projet_indus/projet_catamaran/ROScata/build/Sensor/cmake_install.cmake")
+  include("/home/dembele/Projet_indus/projet_catamaran/ROScata/build/commande/cmake_install.cmake")
 
 endif()
 
